@@ -130,3 +130,6 @@ dmypy.json
 
 # Secret key
 secrets.json
+
+# collected static files
+static_files/
